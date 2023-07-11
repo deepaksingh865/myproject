@@ -1,5 +1,5 @@
 # myproject
-This project will scrap all Washing machine under 50000 and covert to CSV file having details like: Name, Price, Description
+This project will scrap all Washing machine under Rs.50000 and convert to CSV file having details like: Name, Price, Description
 
 Required library 
 beautifulsoup4==4.12.0
